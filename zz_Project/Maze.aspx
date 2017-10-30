@@ -24,20 +24,12 @@
                 <br></br><br></br>
                 <h2 style="text-align: center; font-size:44px">Happy birthday Amanda!</h2>
 				<h2 style="text-align: center;">爸爸妈妈爱我，我爱爸爸妈妈</h2>
-                <br></br>				
+                <br></br></br>					
 				
-				
+				<img src="/Src/img_1.jpg" border = "0" />	
                 </br>	
-	
+
                 
-                <div   align="center">   
-                 <object   classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"   codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0"   width="150"   height="280">   
-                 <param   name="movie"       value="flash/myflash.swf"> 
-                 <param   name="quality"   value="high"> 
-                 <param   name="SCALE"   value="exactfit">
-                 <embed   src="Src/birthday.swf"   width="540"   height="480"   quality="high"   pluginspage="http://www.macromedia.com/go/getflashplayer"   type="application/x-shockwave-flash"   scale="exactfit"></embed>                                                                         
-               </object>   
-               </div>   
                          
             </div>
             <div class="col-md-4"></div>
@@ -61,6 +53,7 @@
     <script src="bootstrap335/js/allegion.js"></script>
   </body>
 </html>
+
 
 
 
