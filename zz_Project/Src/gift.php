@@ -1,6 +1,3 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Gift.aspx.cs" Inherits="Gift" %>
-
-
 <!DOCTYPE html>
 <html lang="zh-CN">
   <head>
@@ -14,6 +11,13 @@
     <link href="bootstrap335/css/bootstrap.min.css" rel="stylesheet">
     <link type="text/css" href="bootstrap335/css/jquery-ui-1.10.0.custom.css" rel="stylesheet" />
     <link href="bootstrap335/css/allegion.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
     
   </head>
   <body onload="form1.DomainID.focus();">
@@ -28,8 +32,9 @@
 				
 				<?php
 					
-					echo "<embed src='/Src/birthday.swf' width='540' height='480' position:relative;left:700px;top:0px; />";
-				?>			
+					echo "<embed src='/amanda/birthday.swf' width='540' height='480' position:relative;left:700px;top:0px; />";
+				?>
+				
 				
                          
             </div>
@@ -58,6 +63,5 @@
     <script src="bootstrap335/js/allegion.js"></script>
   </body>
 </html>
-
 
 
